@@ -2,6 +2,7 @@ import streamlit as st
 import predict
 import model
 
+
 # ================== CONFIG ==================
 st.set_page_config(
     page_title="Ứng dụng viêm tụy cấp",
